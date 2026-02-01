@@ -2,7 +2,7 @@
 
 Sou um dos alunos do curso de React Completo da origamid e este é um pequeno exemplo de consumo de API utilizando blocos try, catch para capturar erros de rede "HTTP".
 
-##🔧Tecnologias utilizadas
+🔧## Tecnologias utilizadas
 - NodeJS versão: 24.12.0
 - Vite versão: 7.2.4
 - React JS versão: 19.2.0
