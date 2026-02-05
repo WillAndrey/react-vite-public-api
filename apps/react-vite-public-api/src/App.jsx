@@ -17,7 +17,7 @@ function App() {
           const json = await response.json()
           setDados(json)
           setLoading(false)
-        } catch (error) {
+        } catch  (error) {
             console.log(`Um erro ocorreu enquanto  o fetch estava capturando os dados:${error.message}`)
         }
   }
